@@ -27,7 +27,7 @@ Hibernate / JPA · Doctrine
 Application web de gestion de notes de campagnes de jeu de rôle.  
 *Web application for tabletop RPG campaign notes management.*
 
-Architecture MVC · Spring Boot REST API · Angular · PostgreSQL · JWT
+Architecture hexagonale · Spring Boot REST API · Angular · PostgreSQL · JWT
 
 ---
 
